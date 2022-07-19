@@ -1,0 +1,101 @@
+rp,idade,sexo,tabagismo,bebidasP/Sem,gDeSalP/Sem,pressaoArterial,imc,dificAtvFisica,doençasAutoref,historico,planoSaude,risco
+1,45,"masculino","nunca fumou",7,,13.13,17.7,"sim","nenhuma","tem","Avancado",1
+2,56,"masculino","nunca fumou",1,26.4,9.44,32.4,"sim","tem alguma","nao tem","Avancado",1
+3,26,"masculino","nunca fumou",3,19.3,13.96,19.7,"sim","tem alguma","nao tem","Avancado",1
+4,87,"feminino","ex-fumante",6,,8.79,23.6,"nao","tem alguma","nao tem","Avancado",2
+5,17,"feminino","ex-fumante",4,52.4,9.5,38.6,"nao","nenhuma","tem","Avancado",3
+6,38,"feminino","fumante",6,,17.75,34.8,"nao","nenhuma","nao tem","Nenhum",2
+7,57,"masculino","fumante",1,,12.18,15.6,"sim","nenhuma","tem","Basico",2
+8,50,"feminino","fumante",7,23.9,18.12,35.5,"nao","tem alguma","nao tem","Avancado",2
+9,35,"feminino","nunca fumou",6,20.4,16.26,25.5,"nao","tem alguma","nao tem","Basico",1
+10,59,"masculino","fumante",6,31.5,16.14,17.1,"sim","tem alguma","tem","Avancado",3
+11,49,"masculino","fumante",2,4.4,13.05,30.8,"nao","nenhuma","tem","Nenhum",1
+12,54,"feminino","fumante",1,,16.0,41.2,"nao","nenhuma","tem","Nenhum",2
+13,63,"masculino","nunca fumou",5,,8.61,35.6,"nao","tem alguma","tem","Avancado",2
+14,75,"feminino","nunca fumou",1,68.0,11.02,30.9,"sim","nenhuma","nao tem","Basico",1
+15,61,"feminino","fumante",7,3.8,14.17,27.3,"sim","nenhuma","nao tem","Basico",2
+16,37,"feminino","fumante",4,51.7,16.31,36.2,"sim","nenhuma","nao tem","Avancado",3
+17,49,"masculino","nunca fumou",6,71.7,12.55,40.9,"sim","tem alguma","nao tem","Nenhum",1
+18,30,"masculino","nunca fumou",1,,14.13,26.4,"nao","tem alguma","tem","Basico",1
+19,51,"masculino","ex-fumante",2,71.8,17.17,15.9,"sim","tem alguma","tem","Nenhum",3
+20,36,"masculino","nunca fumou",3,63.4,15.64,24.4,"nao","nenhuma","tem","Basico",1
+21,89,"masculino","nunca fumou",5,,11.49,22.4,"nao","nenhuma","nao tem","Basico",1
+22,18,"masculino","ex-fumante",3,62.2,15.22,17.0,"nao","nenhuma","tem","Nenhum",3
+23,41,"masculino","fumante",2,63.2,14.15,37.7,"sim","nenhuma","nao tem","Nenhum",2
+24,55,"masculino","ex-fumante",5,,16.59,15.8,"nao","tem alguma","tem","Avancado",3
+25,27,"masculino","fumante",2,67.3,16.02,28.2,"nao","nenhuma","nao tem","Basico",1
+26,58,"masculino","nunca fumou",5,63.1,14.06,15.7,"nao","tem alguma","nao tem","Avancado",2
+27,17,"masculino","fumante",1,16.3,14.36,35.3,"nao","tem alguma","nao tem","Basico",1
+28,54,"feminino","nunca fumou",5,37.7,17.94,29.7,"sim","nenhuma","tem","Nenhum",2
+29,59,"masculino","nunca fumou",2,41.8,12.55,32.7,"nao","nenhuma","tem","Nenhum",1
+30,67,"feminino","ex-fumante",7,21.4,13.2,31.3,"sim","nenhuma","tem","Nenhum",3
+31,54,"masculino","nunca fumou",3,,10.27,41.5,"sim","tem alguma","nao tem","Basico",1
+32,38,"masculino","nunca fumou",2,,12.64,39.5,"sim","nenhuma","tem","Avancado",1
+33,34,"feminino","ex-fumante",3,,11.17,15.4,"nao","nenhuma","nao tem","Basico",1
+34,29,"feminino","ex-fumante",5,74.8,13.56,35.5,"sim","nenhuma","nao tem","Avancado",3
+35,85,"masculino","ex-fumante",3,57.3,11.38,22.0,"nao","tem alguma","tem","Basico",3
+36,59,"masculino","fumante",6,29.6,13.58,25.6,"nao","nenhuma","tem","Basico",2
+37,57,"masculino","nunca fumou",6,16.5,15.71,18.5,"sim","nenhuma","nao tem","Avancado",1
+38,37,"feminino","fumante",6,,9.67,32.8,"sim","nenhuma","nao tem","Avancado",1
+39,75,"feminino","nunca fumou",4,,14.73,24.0,"sim","nenhuma","nao tem","Basico",1
+40,61,"feminino","ex-fumante",2,26.5,9.08,30.4,"sim","tem alguma","nao tem","Nenhum",1
+41,85,"feminino","nunca fumou",7,70.1,14.47,42.1,"sim","nenhuma","tem","Basico",2
+42,73,"masculino","fumante",7,,15.87,23.8,"sim","tem alguma","nao tem","Nenhum",3
+43,90,"feminino","nunca fumou",2,,8.22,29.0,"sim","tem alguma","tem","Basico",1
+44,89,"masculino","fumante",2,,17.74,31.0,"nao","nenhuma","tem","Basico",2
+45,22,"feminino","fumante",7,38.6,9.7,37.8,"sim","tem alguma","tem","Nenhum",3
+46,26,"feminino","fumante",2,30.1,9.3,15.4,"sim","tem alguma","tem","Avancado",2
+47,61,"feminino","fumante",6,30.5,6.79,16.9,"sim","tem alguma","nao tem","Nenhum",3
+48,56,"feminino","ex-fumante",4,,9.44,28.0,"sim","nenhuma","tem","Avancado",3
+49,28,"masculino","nunca fumou",1,49.0,12.35,20.2,"sim","nenhuma","tem","Avancado",1
+50,68,"masculino","fumante",2,,14.32,21.2,"nao","tem alguma","tem","Basico",2
+51,80,"feminino","nunca fumou",4,4.4,15.47,34.8,"nao","tem alguma","tem","Basico",1
+52,51,"masculino","nunca fumou",6,65.5,7.78,26.6,"nao","nenhuma","nao tem","Basico",1
+53,47,"masculino","fumante",6,68.4,11.62,15.5,"nao","tem alguma","tem","Avancado",3
+54,88,"feminino","nunca fumou",1,31.9,11.65,24.0,"sim","tem alguma","tem","Avancado",1
+55,54,"masculino","ex-fumante",3,67.6,12.89,28.4,"sim","nenhuma","tem","Avancado",3
+56,18,"feminino","fumante",5,,13.46,36.7,"sim","nenhuma","tem","Avancado",3
+57,62,"feminino","nunca fumou",6,,16.66,15.5,"sim","nenhuma","tem","Avancado",2
+58,45,"masculino","fumante",1,62.3,9.27,16.3,"nao","nenhuma","nao tem","Nenhum",1
+59,54,"masculino","fumante",4,,9.7,42.4,"nao","tem alguma","tem","Avancado",3
+60,68,"feminino","nunca fumou",1,,7.79,16.5,"nao","nenhuma","tem","Nenhum",1
+61,81,"masculino","fumante",4,,17.58,19.0,"sim","nenhuma","nao tem","Nenhum",2
+62,59,"masculino","ex-fumante",7,64.6,9.95,24.7,"sim","tem alguma","nao tem","Basico",3
+63,17,"masculino","ex-fumante",2,36.8,11.37,19.1,"nao","nenhuma","tem","Nenhum",1
+64,37,"masculino","fumante",3,48.2,17.11,24.6,"sim","tem alguma","tem","Avancado",3
+65,74,"masculino","nunca fumou",5,,8.93,29.9,"sim","nenhuma","nao tem","Basico",1
+66,45,"masculino","fumante",2,49.7,8.3,27.5,"sim","tem alguma","tem","Nenhum",3
+67,32,"feminino","ex-fumante",1,12.5,7.49,27.3,"sim","nenhuma","tem","Basico",1
+68,36,"feminino","ex-fumante",7,73.4,6.76,18.5,"sim","tem alguma","tem","Avancado",3
+69,85,"feminino","fumante",3,31.7,9.32,25.8,"nao","nenhuma","nao tem","Basico",1
+70,27,"feminino","fumante",1,64.5,8.63,15.6,"nao","tem alguma","nao tem","Avancado",2
+71,42,"masculino","ex-fumante",7,,17.61,36.4,"sim","tem alguma","tem","Nenhum",3
+72,22,"masculino","ex-fumante",1,,7.93,28.3,"nao","nenhuma","nao tem","Avancado",1
+73,59,"feminino","nunca fumou",2,24.3,10.01,42.0,"nao","nenhuma","nao tem","Basico",1
+74,33,"feminino","ex-fumante",3,,12.21,24.2,"sim","nenhuma","nao tem","Basico",1
+75,34,"masculino","ex-fumante",7,,15.41,40.4,"sim","tem alguma","tem","Avancado",3
+76,37,"masculino","nunca fumou",7,66.2,10.38,36.6,"nao","tem alguma","nao tem","Nenhum",1
+77,68,"masculino","ex-fumante",1,17.7,13.7,32.8,"sim","nenhuma","nao tem","Nenhum",1
+78,50,"masculino","ex-fumante",3,,15.51,37.8,"sim","tem alguma","tem","Avancado",3
+79,60,"feminino","ex-fumante",2,,10.89,27.4,"nao","tem alguma","nao tem","Basico",1
+80,42,"masculino","ex-fumante",7,14.1,8.22,41.6,"sim","nenhuma","tem","Basico",2
+81,68,"masculino","nunca fumou",4,23.6,12.12,25.0,"nao","nenhuma","nao tem","Nenhum",1
+82,21,"feminino","fumante",2,,8.27,18.6,"sim","nenhuma","tem","Avancado",2
+83,29,"feminino","ex-fumante",1,41.1,13.07,23.7,"nao","tem alguma","nao tem","Nenhum",1
+84,46,"feminino","nunca fumou",3,,11.3,39.3,"sim","nenhuma","nao tem","Basico",1
+85,42,"feminino","nunca fumou",3,25.5,7.67,37.2,"sim","nenhuma","tem","Avancado",1
+86,30,"feminino","nunca fumou",4,66.6,8.87,38.6,"sim","tem alguma","tem","Nenhum",3
+87,73,"masculino","nunca fumou",6,,6.85,28.1,"sim","nenhuma","tem","Nenhum",2
+88,74,"feminino","fumante",6,,9.52,41.9,"sim","nenhuma","tem","Avancado",3
+89,88,"masculino","nunca fumou",4,,10.61,23.0,"sim","tem alguma","tem","Avancado",1
+90,68,"masculino","fumante",3,73.2,9.56,39.2,"nao","nenhuma","nao tem","Avancado",3
+91,80,"masculino","fumante",7,,16.6,19.0,"nao","tem alguma","tem","Nenhum",3
+92,59,"feminino","ex-fumante",5,,17.12,26.2,"sim","tem alguma","tem","Basico",3
+93,66,"feminino","nunca fumou",5,42.1,17.72,39.0,"nao","nenhuma","tem","Basico",2
+94,37,"masculino","fumante",3,62.6,9.75,37.6,"nao","nenhuma","tem","Nenhum",3
+95,42,"masculino","nunca fumou",6,64.3,12.1,30.9,"sim","nenhuma","tem","Avancado",1
+96,85,"masculino","nunca fumou",3,36.4,15.31,19.8,"sim","nenhuma","nao tem","Nenhum",1
+97,48,"feminino","ex-fumante",2,,14.91,37.4,"nao","nenhuma","tem","Basico",1
+98,33,"feminino","ex-fumante",2,74.3,6.78,25.8,"sim","nenhuma","tem","Avancado",3
+99,63,"feminino","nunca fumou",5,35.3,11.68,25.7,"nao","nenhuma","nao tem","Basico",1
+100,68,"feminino","fumante",7,60.6,7.99,30.6,"sim","nenhuma","tem","Avancado",3
